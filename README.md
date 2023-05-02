@@ -97,12 +97,18 @@ sm.qqplot(df['Moderate Negative Skew'], fit=True,line='45')
 plt.show()
 
 # OUTPUT:
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/87276633/235597066-cbb2c9de-ac50-4fae-bc81-ff1de103b7f6.png">
 <img width="195" alt="image" src="https://user-images.githubusercontent.com/87276633/235476595-702b0349-5ac6-4edb-9930-e558d2b98836.png">
 <img width="386" alt="image" src="https://user-images.githubusercontent.com/87276633/235476705-c1363110-ca25-42b5-ba17-5b91ebf19302.png">
 <img width="379" alt="image" src="https://user-images.githubusercontent.com/87276633/235476774-149046c8-d230-474d-a05d-67568a09ff36.png">
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/87276633/235476818-9f93e5ae-7e9c-446d-9a53-5937721a7d55.png">
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/87276633/235476871-ebd1f06d-183d-41d6-94fc-7e8bbf0c4c55.png">
-<img width="376" alt="image" src="https://user-images.githubusercontent.com/87276633/235476935-c6348324-c9c0-4d34-b610-8a3947c025a7.png">
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="378" alt="image" src="https://user-images.githubusercontent.com/87276633/235597306-57d87004-7c9b-46a3-8655-6e5f7dfb6b18.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/87276633/235596937-afcf07fe-a6e1-454b-ade9-7107e8f701c0.png">
+<img width="377" alt="Screenshot 2023-05-02 120523" src="https://user-images.githubusercontent.com/87276633/235596547-86418cc7-2f10-4cd0-98e5-d68885d4161a.png">
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/87276633/235596589-35e52445-af3a-45f3-843f-4d010c24eb30.png">
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/87276633/235596657-21c56e1d-7389-4c90-8d92-c5cd1b52efae.png">
+
+# RESULT:
+Thus the feature transformation process is performed and saved successfully for the given data.
+
